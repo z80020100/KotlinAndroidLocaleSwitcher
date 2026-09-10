@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">LocaleSwitcher</string>
+    <string name="switch_description">Choose the device language. This replaces the current language list with one language.</string>
+    <string name="current_language">Current device languages: %1$s</string>
+    <string name="permission_required">Permission is required. Ask the person who installed this app to complete the setup in the README. Then reopen this app.</string>
+    <string name="switching">Changing the device language…</string>
+    <string name="updated">The device language changed.</string>
+    <string name="switch_failed">The device did not confirm the language change. Check the language in device settings.</string>
 </resources>
