@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LocaleSwitcher</string>
+    <string name="switch_description">端末の言語を選んでください。今の言語リストを選んだ1つの言語に変えます。</string>
+    <string name="current_language">現在の端末の言語：%1$s</string>
+    <string name="permission_required">言語の変更には許可が必要です。このアプリを入れた人に設定を頼んでください。設定方法はREADMEにあります。設定後にこのアプリを開き直してください。</string>
+    <string name="switching">端末の言語を変更しています…</string>
+    <string name="updated">端末の言語を変更しました。</string>
+    <string name="switch_failed">端末の言語が変わったか確認できませんでした。端末の設定で言語を確認してください。</string>
+</resources>
